@@ -1,0 +1,4 @@
+# Model configuration stubs
+models:
+  - name: placeholder-model
+    provider: dummy
